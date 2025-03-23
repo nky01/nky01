@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning ...
   - C#
   - .NET framework
-- 👯 I’m looking forward to collaborate on open source projects.
+- 👯 Open to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!😄<br>
 - 💻 Outside tech, 🎬 comedy movies, 🎵 listen to electronic music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="nickybelu@gmail.com">nickybelu@gmail.com</a>
