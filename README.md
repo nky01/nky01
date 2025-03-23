@@ -7,5 +7,5 @@
 * **I am interested in Web designing, Software and web development**
 - 🌱 I’m currently learning  C# and .NET framework.
 - 🌀 Open source contributor.
-- 💬 Ask me about anything, I am happy to help!😉<br>
+- 💬 Ask me about anything, I am happy to help!^^<br>
 - 💻 Outside tech, 📖 I love to read novels, 🎵 listen to music, and 🌴 explore nature outdoors.
