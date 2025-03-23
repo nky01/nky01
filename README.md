@@ -3,11 +3,9 @@
 
 ***About me***
 
-I'm studying the University Degree in programming at the UTN in General Pacheco. C++, Javascript and HTML are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+- 🔭I'm studying the University Degree in programming at the UTN in General Pacheco. C++, Javascript and HTML are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Software and web development**
-- 🌱 I’m currently learning ...
-  - C# .NET framework
-  - JavaScript
-- ✨ I’m looking forward to collaborate on open source projects.
-- ✅ Ask me about anything, I am happy to help!😉<br>
+- 🌱 I’m currently learning  C# and .NET framework.
+- 👯‍♀️ Open source contributor.
+- 💬 Ask me about anything, I am happy to help!😉<br>
 - 💻 Outside tech, 📖 I love to read novels, 🎵 listen to music, and 🌴 explore nature outdoors.
