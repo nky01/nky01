@@ -6,8 +6,8 @@
 🔭 I'm studying a University Degree in Programming at the UTN in General Pacheco.
 * **I am interested in Web designing, Web and Software development**
 - 🌱 I’m currently learning ...
-  - Java
-  - React js
+  - C#
+  - .NET framework
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - 💻 Outside tech, 🎬 comedy movies, 🎵 listen to music, and 🌴 explore nature outdoors.
