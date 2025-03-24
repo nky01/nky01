@@ -10,7 +10,7 @@
   - .NET framework
 - 👯 Open to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!😄<br>
-- 💻 Outside tech, 🎬 comedy movies, 🎵 listen to electronic music, and 🌴 explore nature outdoors.
+- 💻 Outside tech, 🎬 comedy movies, 🎵 electronic music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="nickybelu@gmail.com">nickybelu@gmail.com</a>
 
 ## My Skills Include
@@ -34,4 +34,5 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   </span>
