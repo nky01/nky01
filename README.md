@@ -4,10 +4,11 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 🔭 I'm studying a University Degree in Programming at the UTN in General Pacheco.
-* **I am interested in UX/UI designing, Web and Software development.**
+* **I am interested in Web and Software development.**
 - 🌱 I’m currently learning ...
   - C#
-  - .NET framework
+  - .NET framework (Desktop App)
+  - ASP.NET (Web App)
 - 👯 Open to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!😄<br>
 - 💻 Outside tech, 🎬 comedy movies, 🎵 electronic music, and 🌴 explore nature outdoors.
