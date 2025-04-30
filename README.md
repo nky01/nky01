@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-🔭 I'm studying a University Degree in Programming at the UTN in General Pacheco.
+🔭 I'm studying an University Degree in Programming at the UTN in General Pacheco.
 * **I am interested in Web and Software development.**
 - 🌱 I’m currently learning ...
   - C#
