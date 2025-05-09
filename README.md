@@ -3,14 +3,15 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-🔭 I'm studying an University Degree in Programming at the UTN in General Pacheco.
+🔭 I'm studying a University Degree in Programming at the UTN(National Technological University).
 * **I am interested in Web and Software development.**
 - 🌱 I’m currently learning ...
   - C#
-  - .NET framework (Desktop App)
-  - ASP.NET (Web App)
+  - ASP.NET
+  - NET framework (Windows Forms)
+  - SQL Server
 - 👯 Open to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help!😄<br>
+- ✔ Ask me about anything, I am happy to help!<br>
 - 💻 Outside tech, 🎬 comedy movies, 🎵 electronic music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="nickybelu@gmail.com">nickybelu@gmail.com</a>
 
