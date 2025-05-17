@@ -1,5 +1,9 @@
-<h2 align="left">Hi 🌀👾! My name is Nicole and I'm a programmer from Buenos Aires, Argentina</h2>
+<h2 align="center">Hi 🌀👾! My name is Nicole and I'm a programmer from Buenos Aires, Argentina</h2>
 
+`cout << "Hello World!!";`
+
+I'm currently in my second year of a university degree in Programming, focusing on **Software Development** and **Databases**.  
+I enjoy building projects that solve real problems and help me grow as a developer.
 ###
 
 <div align="center">
