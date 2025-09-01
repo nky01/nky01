@@ -2,8 +2,7 @@
 
 `console.log("Hello World!")`
 
-I'm currently in my second year of a university degree in Programming, focusing on **Software Development**.  
-I enjoy building projects that solve real problems and help me grow as a developer.
+I'm in my second year of a university degree in Programming, focusing on **Software Development**. I enjoy building projects that solve real problems and help me grow as a developer.
 ###
 
 <div align="center">
