@@ -1,4 +1,4 @@
-<h2 align="center">Hi 🌀👾! My name is Nicole and I'm a programmer from Buenos Aires, Argentina</h2>
+<h2 align="center">Hi 🌀👾! I'm a programmer from Buenos Aires, Argentina</h2>
 
 `console.log("Hello World!")`
 
