@@ -2,8 +2,8 @@
 
 💻 Desarrolladora de Software  
 🎓 Estudiante en la Universidad Tecnológica Nacional  
-🚀 Apasionada por la tecnologia y la creación de soluciones reales <br>
-🌱 Siempre aprendiendo nuevas tecnologías
+🚀 Apasionada por la tecnología y por transformar ideas en código <br>
+🌱 Comprometida con el aprendizaje continuo
 
 ---
 
