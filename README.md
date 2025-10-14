@@ -2,7 +2,7 @@
 
 💻 Desarrolladora de Software  
 🎓 Estudiante en la Universidad Tecnológica Nacional  
-🚀 Apasionada por la tecnologia y la creación de soluciones reales
+🚀 Apasionada por la tecnologia y la creación de soluciones reales <br>
 🌱 Siempre aprendiendo nuevas tecnologías
 
 ---
@@ -16,9 +16,3 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=FFFFFF"/>
 </div>
-
----
-
-<p align="center">
-✨ “El código es el arte de convertir ideas en realidad” ✨
-</p>
